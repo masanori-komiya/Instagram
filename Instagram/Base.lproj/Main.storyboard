@@ -23,10 +23,10 @@
             </objects>
             <point key="canvasLocation" x="-610" y="144"/>
         </scene>
-        <!--Item-->
+        <!--Login View Controller-->
         <scene sceneID="fTd-3f-cqS">
             <objects>
-                <viewController id="Sqy-Rw-DTo" customClass="LoginViewController" customModule="Instagram" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="Sqy-Rw-DTo" userLabel="Login View Controller" customClass="LoginViewController" customModule="Instagram" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="cpX-zn-Gq8">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
